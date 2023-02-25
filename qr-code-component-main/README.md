@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [https://q-rcode-componente-hpbi.vercel.app here](https://q-rcode-componente-hpbi.vercel.app)
+- Live Site URL: [https://q-rcode-componente-hpbi.vercel.app](https://q-rcode-componente-hpbi.vercel.app)
 
 ## My process
 
